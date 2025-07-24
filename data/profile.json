@@ -43,13 +43,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto web inspirado no universo do Homem-Aranha",
+      "url": "https://github.com/A1AD10/spider-man-multiverses",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Yu-Gi-Oh | Jo-ken-po Edition - Jogo de jokenpo para explicar conceitos de lógica de programação aplicados a jogos",
+      "url": "https://github.com/A1AD10/YuGiOh",
       "github": true
     }
   ],
